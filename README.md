@@ -1,0 +1,2 @@
+# Online-resort-management-system
+This is a web-based application that provides an online room reservation and also serves as the Resort's simple Website. The application allows visitors to explore the activities that are available and book or reserve a room to stay in the resort. The website information is dynamically encoded which means the management can easily update the list and information of the site using the frontend. It has a pleasant user interface and user-friendly functionalities.
